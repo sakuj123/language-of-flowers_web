@@ -1,0 +1,25 @@
+.todo-input-wrapper{
+    display: flex;
+    gap: 8px;
+    }
+    
+    
+.todo-input{
+    outline: none;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 8px 12px;
+    }
+
+.todo-submit{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #373F74;
+    color: white;
+    cursor: pointer;
+    }
+
+.line-through{
+    
+}
